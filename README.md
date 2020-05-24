@@ -25,9 +25,9 @@
 |WatchGuard Technologies, Inc. |U.S.|Seattle, Washington, U.S.|[Wikidata](https://www.wikidata.org/wiki/Q1476967)|:rotating_light:|:rotating_light:|:rotating_light:|
 
 * <sup>1</sup> Has a sub company located in Mountain View, California, U.S. :rotating_light:
-* <sup>2</sup> Do you trust the Mossad?
-* <sup>3</sup> Do you trust the Chinese government?
-* <sup>4</sup> Provides the product as open source as well
+* <sup>2</sup> Do you trust the Mossad? :rotating_light:
+* <sup>3</sup> Do you trust the Chinese government? :rotating_light:
+* <sup>4</sup> Provides the product as open source as well :heavy_check_mark:
 
 ## Disclaimer
 
