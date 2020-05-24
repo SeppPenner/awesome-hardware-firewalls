@@ -35,6 +35,6 @@ We do not encourage users to use these firewalls nor do we support any of them. 
 
 ## Further links
 
-* [Wikidata](https://www.allfirewalls.de/
-* [Wikidata](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/
-* [Wikidata](https://newatlas.com/huawei-ban-us-what-spy-evidence-exists/59772/
+* https://www.allfirewalls.de/
+* https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/
+* https://newatlas.com/huawei-ban-us-what-spy-evidence-exists/59772/
