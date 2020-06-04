@@ -38,3 +38,8 @@ We do not encourage users to use these firewalls nor do we support any of them. 
 * https://www.allfirewalls.de/
 * https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/
 * https://newatlas.com/huawei-ban-us-what-spy-evidence-exists/59772/
+
+Change history
+--------------
+
+See the [Changelog](https://github.com/SeppPenner/awesome-hardware-firewalls/blob/master/Changelog.md).
